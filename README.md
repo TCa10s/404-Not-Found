@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tca10s.github.io/404-Not-Found/" target="_blank">
+    <a href="https://tcar10s.github.io/404-Not-Found/" target="_blank">
       Demo
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/404-Not-Found/main/img/404-not-found.png)
+![screenshot](https://raw.githubusercontent.com/TCar10s/404-Not-Found/main/img/404-not-found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [www.tutoscarlos.xyz](https://www.tutoscarlos.xyz)
-- GitHub [@TCa10s](https://https://github.com/TCa10s)
+- GitHub [@TCa10s](https://https://github.com/TCar10s)
 - Twitter [@Tutos_Carlos11](https://twitter.com/Tutos_Carlos11)
